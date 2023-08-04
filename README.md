@@ -2,7 +2,8 @@
 
 
 <h2 align="center"> created by; </h1> 
-<p align="center"><a href="https://github.com/Ayhuuu" target="_blank">ayhu</a></p><p align="center"><a href="https://github.com/Art0nus" target="_blank">artonus</a></p>
+Grah
+/gt
 
 
 
