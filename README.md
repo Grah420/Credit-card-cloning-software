@@ -9,7 +9,7 @@
 
 
 
-                                                      🤖 Futures
+                                                    
 
 
 - Flawless skimming
