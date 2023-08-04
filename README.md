@@ -22,7 +22,7 @@
 
 
 
-                                                      ⬇️ Setup
+                                                      ⬇️ Setup:
                                                   
 - first open `install.bat`
 
