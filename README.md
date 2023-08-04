@@ -1,4 +1,4 @@
-<h1 align="center"> Creal Stealer </h1> 
+<h1 align="center"> CC Stealer/clone </h1> 
 
 
 <h2 align="center"> created by; </h1> 
